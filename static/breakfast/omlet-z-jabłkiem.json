@@ -1,0 +1,59 @@
+{
+  "ingredients": [
+    "4 + 6 płaskich łyżek płatków owsianych górskich (10 x 10 g)",
+    "1 + 1 łyżka mąki orkiszowej pełnoziarnistej (2 x 15 g)",
+    "1⁄4 + 1⁄2 szklanki kefiru (80 + 120 ml)",
+    "1 + 2 jajka klasy L (3 x 70 g)",
+    "1⁄2 + 1⁄2 płaskiej łyżeczki sody",
+    "1⁄2 + 1⁄2 jabłka pokrojonego w kostkę (2 x 70 g)",
+    "1/3 + 1/3 łyżeczki cynamonu, szczypta kurkumy i imbiru",
+    "2 + 4 łyżki jogurtu naturalnego (50 + 100 g)",
+    "1 + 2 łyżki orzechów włoskich (3 x 10 g)"
+  ],
+  "steps": [
+    "Do naczynia wsypać mąkę, płatki, przyprawy i sodę – wymieszać.",
+    "W drugim naczyniu dodać kefir i jajko – całość roztrzepać widelcem. Dodać 1⁄2 jabłko i wymieszać.",
+    "Zawartość naczynia z mokrymi składnikami przelać do naczynia z mąką i dokładnie wymieszać widelcem. Odstawić naok. 5 min",
+    "Całość masy przelać na małą rozgrzaną teflonową (patelnię można uprzednio przetrzeć ręcznikiem papierowym zwilżonym olejem). Smażyć przez ok. 15 – 17 min. na małym ogniu pod przykryciem - do momentu ścięcia się masy jajecznej na powierzchni omletu.",
+    "Gotowy omlet przełożyć na talerz, polać jogurtem naturalnym i posypać posiekanymi orzechami."
+  ],
+  "extra": {},
+  "shoppping-list": [
+    {
+      "name": "płatki owsiane",
+      "amount": "100g"
+    },
+    {
+      "name": "mąka orkiszowa",
+      "amount": "30g"
+    },
+    {
+      "name": "kefir",
+      "value": "200ml"
+    },
+    {
+      "name": "jajka",
+      "value": "3 sztuki"
+    },
+    {
+      "name": "soda",
+      "value": "1 płaska łyżeczka"
+    },
+    {
+      "name": "jabłko",
+      "value": "140g"
+    },
+    {
+      "name": "jogurt naturalny",
+      "value": "150g (2 + 4 łyżeczki)"
+    },
+    {
+      "name": "orzechy włoskie",
+      "value": "30g (1 + 2 łyżeczki)"
+    },
+    {
+      "name": "przyprawy",
+      "value": "cynamon, kurkuma, imbir"
+    }
+  ]
+}

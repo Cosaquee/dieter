@@ -1,0 +1,14 @@
+{
+  "ingredients": [],
+  "steps": [],
+  "extra": {
+    "salad": true
+  },
+  "shopping-list": [
+    {
+      "name": "",
+      "value": { "type": "", "value": "" }
+    }
+  ],
+  "name": ""
+}

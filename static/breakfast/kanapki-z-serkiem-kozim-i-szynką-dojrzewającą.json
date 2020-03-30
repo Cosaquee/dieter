@@ -1,0 +1,31 @@
+{
+  "ingredients": [
+    "2+3 łyżki serka koziego do smarowania (50 + 75g)",
+    "2+3 plastry szynki dojrzewajÄ…cej typu prosciutto (30 + 45g)",
+    "2+3 kromki chleba razowego (2 + 3 x 40g)",
+    "szczypta czarnuszki / ziół‚ prowansalskich"
+  ],
+  "steps": [
+    "Kromki pieczywa posmarować serkiem, posypać przyprawami oraz położyć na każdej kanapce po plasterku szynki(można usunąć wierzchnią warstwę tłuszczu)"
+  ],
+  "extra": {
+    "wegetables": true
+  },
+  "shopping-list": [
+    {
+      "name": "serek kozi do smarowania",
+      "value": {
+        "type": "g",
+        "value": "125"
+      }
+    },
+    {
+      "name": "szynka dojrzewająca",
+      "value": {
+        "type": "g",
+        "value": "75"
+      }
+    }
+  ],
+  "name": "Kanapki z serkiem kozim i szynką dojrzewającą"
+}

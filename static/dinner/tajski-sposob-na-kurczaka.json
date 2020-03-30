@@ -1,0 +1,68 @@
+{
+  "ingredients": [
+    "1⁄2 + 1⁄2 piersi z indyka lub kurczaka (120 + 150 g)",
+    "marynata do drobiu: 1⁄4 szklanki kefiru / maślanki, po 1⁄4 łyżeczki suszonego imbiru, słodkiej papryki, cynamonu, szczypta kolendry, chili i kurkumy, 1 drobno posiekany ząbek czosnku",
+    "1⁄2 + 1⁄2 małej cukinii (2 x 100 g)",
+    "1⁄2 + 1⁄2 czerwonej lub żółtej papryki (2 x 120 g)",
+    "5 + 5 pomidorków koktajlowych (2 x 120 g)",
+    "1⁄4 + 1⁄4 szklanki mleczka kokosowego (2 x 60 ml)",
+    "przyprawy do warzyw: po 1⁄4 łyżeczki suszonego imbiru i cynamonu, szczypta kurkumy i chili, 1/3 łyżeczki świeżego imbiru, 1⁄4 łyżeczki sparzonej skórki z cytryny, 1 drobno posiekany ząbek czosnku",
+    "1 łyżka posiekanej natki z pietruszki (opcjonalnie)",
+    "50 + 75 g brązowego ryżu (1/2 + 3⁄4 torebki)"
+  ],
+  "steps": [
+    "Mięso umyć pod bieżącą wodą, osuszyć, pokroić w kostkę / paski i umieścić wmiseczce lub głębokim talerzu.",
+    "W szklance zmieszać składniki marynaty i pokryć nią kawałki indyka / kurczaka.Całość wymieszać. Odstawić do lodówki na co najmniej 2 godziny. Po tym czasieugotować mięso na parze (ok. 15 min.) lub dusić w garnku / na teflonowej patelni z dodatkiem odrobiny wody (10 - 12 min.). Powstałą podczas duszenia wodę należy odlać.",
+    "Wstawić wodę na ryż. Gotować od wrzątku 25 – 30 min.",
+    "Warzywa umyć i osuszyć. Cukinię i paprykę pokroić w grubą kostkę, zaś pomidorki przekroić na połówki.",
+    "Do garnka przełożyć paprykę i dusić z dodatkiem wody pod przykryciem ok. 5 – 7 min. Następnie dodać cukinię i pomidory, dusić kolejne 5 min. Dodać kurczaka, mleczko kokosowe i przyprawy do warzyw. Dusić ok. 5 – 7 min., do połączenia się smaków.",
+    "Gotowe danie podawać posypane natką pietruszki oraz z ugotowanym ryżem."
+  ],
+  "extra": {},
+  "shopping-list": [
+    {
+      "name": "tofu",
+      "value": {
+        "type": "g",
+        "value": "400"
+      }
+    },    {
+      "name": "kefir",
+      "value": {
+        "type": "g",
+        "value": "50"
+      }
+    },    {
+      "name": "cukinia",
+      "value": {
+        "type": "g",
+        "value": "200"
+      }
+    },    {
+      "name": "papryka",
+      "value": {
+        "type": "g",
+        "value": "240"
+      }
+    },    {
+      "name": "pomidorki koktajlowe",
+      "value": {
+        "type": "g",
+        "value": "240"
+      }
+    },    {
+      "name": "mleczko kokosowe",
+      "value": {
+        "type": "g",
+        "value": "120"
+      }
+    },    {
+      "name": "brązowy ryz",
+      "value": {
+        "type": "g",
+        "value": "125"
+      }
+    }
+  ],
+  "name": "Tajski sposób na tofu"
+}

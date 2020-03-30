@@ -1,0 +1,40 @@
+{
+  "ingredients": [
+    "2 + 2 jajka klasy M / L (4 x 60 / 70 g)",
+    "1 + 1 łyżka jogurtu naturalnego (2 x 25 g)",
+    "1 + 1 płaska łyżeczka chrzanu (2 x 10 g)",
+    "1 + 2 łyżki nasion słonecznika (3 x 10 g)",
+    "1 + 1 łyżeczka posiekanego koperku (opcjonalnie)"
+  ],
+  "steps": [
+    "Jajka ugotować na twardo. Po ugotowaniu jajka wystudzić i pokroić w kostkę.",
+    "Nasiona słonecznika można delikatnie podprażyć na suchej patelni do uzyskania złotego koloru.",
+    "W miseczce zmieszać jogurt z chrzanem. Następnie dodać pozostałe składniki i ponownie wymieszać. Pastę spożyć z chlebem razowym."
+  ],
+  "extra": {
+    "vegetables": true
+  },
+  "shopping-list": [
+    {
+      "name": "jajka",
+      "value": { "type": "", "value": "4" }
+    },
+    {
+      "name": "jogurt naturalny",
+      "value": { "type": "g", "value": "50" }
+    },
+    {
+      "name": "chrzan",
+      "value": { "type": "g", "value": "20" }
+    },
+    {
+      "name": "nasiona słonecznika",
+      "value": { "type": "g", "value": "30" }
+    },
+    {
+      "name": "opcjonalnie: posiekany koperek",
+      "value": { "type": "łyźeczka", "value": "2" }
+    }
+  ],
+  "name": ""
+}

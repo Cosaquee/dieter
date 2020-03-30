@@ -1,0 +1,79 @@
+{
+  "ingredients": [
+    "1 + 1 pomidor (2 x 120 g)",
+    "1 + 1 garść ulubionej sałaty (2 x 20 – 30 g)",
+    "1⁄2 + 1⁄2 czerwonej papryki (2 x 120 g)",
+    "50 + 75 g sera feta",
+    "1⁄2 + 1⁄2 ogórka (2 x 60 g)",
+    "1 + 1 łyżka czarnych oliwek (2 x 25 g)",
+    "1⁄2 + 1⁄2 małej czerwonej cebuli (2 x 30 g)",
+    "sos: 1 + 1 łyżeczka oliwy, kilka kropel soku z cytryny, szczypta tymianku, czarnego pieprzu i oregano",
+    "2 + 3 kromki chleba razowego (5 x 40 g)"
+  ],
+  "steps": [
+    "Warzywa umyć i osuszyć. Sałatę porwać na mniejsze kawałki. Pomidora i paprykę pokroić w kostkę. Ogórka i cebulę pokroić w półtalarki.",
+    "Oliwki odsączyć i pokroić na połówki.",
+    "W szklance wymieszać składniki sosu.",
+    "Wymieszać wszystkie warzywa, posypać pokruszonym serem i polać sosem. Sałatkę podawać z pieczywem."
+  ],
+  "extra": {},
+  "shopping-list": [
+    {
+      "name": "pomidor",
+      "value": {
+        "type": "g",
+        "value": "240g"
+      }
+    },
+    {
+      "name": "sałata",
+      "value": {
+        "type": "g",
+        "value": "60"
+      }
+    },
+    {
+      "name": "czerwona papryka",
+      "value": {
+        "type": "g",
+        "value": "240"
+      }
+    },
+    {
+      "name": "ser feta",
+      "value": {
+        "type": "g",
+        "value": "125"
+      }
+    },
+    {
+      "name": "ogórek",
+      "value": {
+        "type": "g",
+        "value": "120"
+      }
+    },
+    {
+      "name": "czarne oliwki",
+      "value": {
+        "type": "g",
+        "value": "50"
+      }
+    },
+    {
+      "name": "czerwona cebula",
+      "value": {
+        "type": "g",
+        "value": "60"
+      }
+    },
+    {
+      "name": "chleb razowy",
+      "value": {
+        "type": "kromki",
+        "value": "5"
+      }
+    }
+  ],
+  "name": "Sałatka grecka"
+}

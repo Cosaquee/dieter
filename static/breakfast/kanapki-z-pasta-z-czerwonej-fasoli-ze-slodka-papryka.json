@@ -1,0 +1,51 @@
+{
+  "ingredients": [
+    "3 + 3 łyżki nasion ugotowanej / konserwowej fasoli (2 x 60 g)",
+    "1 + 1 łyżeczka oliwy z oliwek lub oleju rzepakowego (2 x 5 g)",
+    "1⁄2 + 1⁄2 łyżeczki słodkiej papryki",
+    "1⁄2 + 1⁄2 ząbku czosnku lub szczypta czosnku niedźwiedziego",
+    "szczypta kurkumy i chili",
+    "1 + 2 kromki chleba (3 x 40 g)",
+    "1 + 2 łyżki nasion słonecznika (3 x 10 g)",
+    "1 + 2 ogórki kiszone"
+  ],
+  "steps": [
+    "Fasolę przepłukać na sitku pod bieżącą wodą.",
+    "W wysokim naczyniu zmiksować wszystkie składniki pasty na gładką konsystencję.",
+    "Powstałą pastą posmarować kromki chleba. Kanapki posypać nasionami słonecznika, a następnie położyć plasterki ogórka."
+  ],
+  "extra": {
+    "vegetables": true
+  },
+  "shopping-list": [
+    {
+      "name": "nasiona ugotowanej/konserwowej fasoli",
+      "value": "120g"
+    },
+    {
+      "name": "oliwa z oliwek",
+      "value": "10g"
+    },
+    {
+      "name": "słodka papryka",
+      "value": "1 łyżeczka"
+    },
+    {
+      "name": "przyprawy: czosnek niedźwiedzim kurkuma, chili",
+      "value": "szczypta"
+    },
+    {
+      "name": "chleb razowy",
+      "value": " 3 kromki"
+    },
+    {
+      "name": "nasiona słonecznika",
+      "value": "30g"
+    },
+    {
+      "name": "ogórki kiszone",
+      "value": "3"
+    }
+  ],
+  "name": "Kanapki z pastą z czerwonej fasoli ze słodką papryką"
+}

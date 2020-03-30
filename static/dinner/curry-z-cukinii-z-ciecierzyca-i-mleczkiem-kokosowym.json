@@ -1,0 +1,52 @@
+{
+  "ingredients": [
+    "1/4 + 1/3 szklanki suchych (50 + 60 g) lub 1⁄2 + 2/3 szklanki ugotowanych nasion ciecierzycy (100 + 120 g)",
+    "1/2 + 1/2 małej cukinii (2 x 100 g)",
+    "0 +1 pomidor (2 x 120 g)",
+    "1⁄2 + 1⁄2 cebuli (2 x 30 g)",
+    "1 + 1 ząbek czosnku",
+    "1⁄4 + 1⁄4 szklanki (2 x 60 ml) mleczka kokosowego",
+    "50 + 75 g kaszy / ryżu",
+    "po 1⁄2 łyżeczki przyprawy curry, czarnego pieprzu, kolendry",
+    "1⁄4 szklanki wody"
+  ],
+  "steps": [
+    "Suche nasiona ciecierzycy zalać w gorącą wodą i odstawić na 3 – 4 h. Po tym czasie wylać wodę, zalać świeżą i gotować przez ok. 30 min. do momentu, aż nasiona będą miękkie (w razie potrzeby dolać wody). W przypadku zastosowania nasion ciecierzycy konserwowej, opłukać nasiona na sitku pod bieżącą wodą.",
+    "Warzywa umyć i osuszyć. Z pomidora usunąć szypułkę, zaś cebulę i czosnek obrać. Pomidora, cukinię i cebulę pokroić w kostkę. Czosnek drobno posiekać.",
+    "Warzywa poddusić w garnuszku razem z przyprawami oraz 3 – 4 łyżkami wody. Gotować pod przykryciem ok. 10 min.Dodać ugotowaną ciecierzycę oraz mleczko kokosowe. Całość wymieszać i dusić przez 5 – 7 min. W razie potrzeby dodać wody.",
+    "W międzyczasie sparzyć orzechy i posiekać je.",
+    "Gotowe curry podawać z ugotowaną kaszą oraz orzechami."
+  ],
+  "extra": {},
+  "shopping-list": [
+    {
+      "name": "suche nasiona ciecierzycy",
+      "value": "110g"
+    },
+    {
+      "name": "cukinia",
+      "value": "200g"
+    },
+    {
+      "name": "pomidor",
+      "value": "240g"
+    },
+    {
+      "name": "czosnek",
+      "value": "2 ząbki"
+    },
+    {
+      "name": "mleczko kokosowe",
+      "value": "120ml"
+    },
+    {
+      "name": "ryż/kasza",
+      "value": "125g"
+    },
+    {
+      "name": "przyprawy: curry, czarny pieprz, kolendra",
+      "value": "1/2 łyżeczki"
+    }
+  ],
+  "name": "Curry z cukinii z ciecierzycą i mleczkiem kokosowym"
+}

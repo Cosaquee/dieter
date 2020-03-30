@@ -1,0 +1,53 @@
+{
+  "ingredients": [
+    "4 + 5 łyżek twarogu półtłustego (100 + 125 g)",
+    "2 + 3 łyżki jogurtu naturalnego 1,5 – 2% (50 + 75 g)",
+    "1 + 2 łyżki pestek dyni (3 x 10 g)",
+    "2 + 3 listki świeżej bazylii (opcjonalnie)",
+    "szczypta czarnego pieprzu i tymianku",
+    "2 + 3 suszone pomidory bez zalewy",
+    "1 + 1 świeży pomidor (120 g)",
+    "2 + 3 kromki chleba razowego (5 x 40 g)"
+  ],
+  "steps": [
+    "Suszone pomidory zalać w szklance wrzątkiem i odstawić na 10 – 15 min. Następnie odlać wodę i pokroić pomidory w kostkę.",
+    "Umyć świeżego pomidora i listki bazylii. Z pomidora usunąć szypułkę i pokroić miąższ w kostkę. Bazylię posiekać.",
+    "W miseczce zmieszać wszystkie składniki na pastę i całość wymieszać. Spożyć razem z kromką chleba."
+  ],
+  "extra": {},
+  "shopping-list": [
+    {
+      "name": "twaróg półtłusty",
+      "value": { "type": "g", "value": "125" }
+    },
+    {
+      "name": "jogurt naturalny",
+      "value": { "type": "g", "value": "125" }
+    },
+    {
+      "name": "pestki dyni",
+      "value": { "type": "g", "value": "30" }
+    },
+    {
+      "name": "świeża bazylia",
+      "value": { "type": "listki", "value": "5" }
+    },
+    {
+      "name": "przyprawy: czarny pieprz, tymianek",
+      "value": { "type": "szczypta", "value": "" }
+    },
+    {
+      "name": "suszone pomidory",
+      "value": { "value": "5", "type": "sztuki" }
+    },
+    {
+      "name": "pomidor",
+      "value": { "type": "g", "value": "120" }
+    },
+    {
+      "name": "chleb razowy",
+      "value": { "type": "kromki", "value": "5" }
+    }
+  ],
+  "name": "Kanapka z pastą z twarożku z suszonymi pomidorami"
+}

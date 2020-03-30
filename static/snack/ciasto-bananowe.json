@@ -1,0 +1,61 @@
+{
+  "ingredients": [
+    "3 małe dojrzałe banany (300 g)",
+    "3⁄4 szklanki mąki orkiszowej pełnoziarnistej / owsianej (100 g)",
+    "1 jajko klasy L (70 g)",
+    "1⁄2 szklanki kefiru naturalnego (125 ml)",
+    "8 daktyli bez pestki (60 g)",
+    "1 łyżeczka sody oczyszczonej (5 g)",
+    "1 łyżka oleju rzepakowego (10 g)",
+    "1⁄2 łyżeczki cynamonu i suszonego imbiru",
+    "1 łyżeczka świeżej skórki z pomarańczy / cytryny"
+  ],
+  "steps": [
+    "Banany umyć, obrać ze skórki i pokroić na duże kawałki. Umieścić w dużej misce.",
+    "Do bananów dodać kefir / mleko roślinne, jajko i olej – całość zmiksować blenderem.",
+    "W oddzielnej miseczce wymieszać mąkę, sodę, skórkę z pomarańczy / cytryny i przyprawy.",
+    "Do bananowej masy dodać zawartość miseczki z suchymi składnikami.",
+    "Daktyle sparzyć i pokroić na drobną kosteczkę. Dodać do bananowej masy i dokładnie wymieszać.",
+    "Foremkę o wymiarach 20 x 20 cm wyłożyć papierem do pieczenia. Wlać ciasto i upiec w temperaturze 175 st. C przez ok. 35 – 45 min. (funkcja termoobieg). Przestudzone ciasto pokroić na 6 porcji."
+  ],
+  "extra": {},
+  "shopping-list": [
+    {
+      "name": "dojrzale banany",
+      "value": { "type": "g", "value": "300" }
+    },
+    {
+      "name": "mąka orkiszowa pełonoziarnista/owsiana",
+      "value": { "type": "g", "value": "100" }
+    },
+    {
+      "name": "jajko",
+      "value": { "type": "g", "value": "70" }
+    },
+    {
+      "name": "kefir naturalny",
+      "value": { "type": "ml", "value": "125" }
+    },
+    {
+      "name": "daktyle bez pestki",
+      "value": { "type": "g", "value": 60 }
+    },
+    {
+      "name": "soda oczyszczona",
+      "value": { "type": "g", "value": "5" }
+    },
+    {
+      "name": "olej rzepakowy",
+      "value": { "type": "g", "value": "10" }
+    },
+    {
+      "name": "cynamon i suszony imbir",
+      "value": { "type": "łyżeczka", "value": "1" }
+    },
+    {
+      "name": "świeża skórka z pomarańczy / cytryny",
+      "value": { "type": "łyżeczka", "value": "1" }
+    }
+  ],
+  "name": "Ciasto bananowe"
+}

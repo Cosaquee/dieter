@@ -1,0 +1,57 @@
+{
+  "ingredients": [
+    "1⁄2+1⁄2 piersi z lkurczaka (120 + 150g)",
+    "zalewa do kurczaka: 3–4 łyżki soku z cytryny, 1 posiekany ząbek czosnku, szczypta kurkumy, słodkiej papryki i chili",
+    "1⁄2 + 3⁄4 torebki ryżu brązowego/basmati (50 + 75g)",
+    "1+1 łyżeczka oleju rzepakowego (2 x 5g)",
+    "salsa: 1⁄4 + 1⁄4 mango (2x50g), 1⁄2 + 1⁄2 awokado(2x70g), sok z cytryny, K: 1 łyżeczka świeżej kolendry (opcjonalnie)"
+  ],
+  "steps": [
+    "Kurczaka umyć pod bieżącą wodą, osuszyć ręcznikiem papierowym, (opcjonalnie) pokroić w grubszą kostkę i umieścić w miseczce. W szklance połączyć składniki zalewy i polać nią kurczaka. Odstawić do lodówki na min. 1,5 godz. Następnie mięso podsmażyć na patelni grillowej z dodatkiem oleju lub piec w piekarniku nagrzanym do 180 stopni C przez ok. 30 min.",
+    "Mango i awokado umyć, obrać i pokroić w kostkę. Wymieszać w miseczce razem z pozostałymi składnikami salsy.",
+    "Gotowego kurczaka podawać z ugotowanym ryżem i salsą."
+  ],
+  "extra": {
+    "salad": true
+  },
+  "shopping-list": [
+    {
+      "name": "tofu",
+      "value": { "type": "g", "value": "540" }
+    },
+
+    {
+      "name": "sok z cytryny",
+      "value": { "type": "łyżka", "value": "3" }
+    },
+    {
+      "name": "czosnek",
+      "value": { "type": "ząbek", "value": "1" }
+    },
+    {
+      "name": "przyprawy: kurkuma, słodka papryka, chili",
+      "value": { "type": "szczypta", "value": "" }
+    },
+    {
+      "name": "ryż brązowy",
+      "value": { "type": "g", "value": "125" }
+    },
+    {
+      "name": "olej rzepakowy",
+      "value": { "type": "g", "value": "10" }
+    },
+    {
+      "name": "mango",
+      "value": { "type": "g", "value": "100" }
+    },
+    {
+      "name": "awokado",
+      "value": { "type": "g", "value": "140" }
+    },
+    {
+      "name": "kolendra świeża",
+      "value": { "type": "łyżeczka", "value": "1" }
+    }
+  ],
+  "name": "Kurczak po meksykańsku z salsą z mango i awokado"
+}

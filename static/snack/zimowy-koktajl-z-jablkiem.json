@@ -1,0 +1,46 @@
+{
+  "ingredients": [
+    "1 + 1 jabłko (120 + 150 g)",
+    "1 + 1 małe opakowanie jogurtu (2 x 180 – 200 g)/ 1 + 1 szklanka kefiru / napojuroślinnego z Ca i B12 (2 x 250 ml)",
+    "1⁄2 + 1⁄2 łyżeczki cynamonu",
+    "1⁄4 + 1⁄4 szklanki kurkumy",
+    "2 + 2 łyżki otrębów owsianych",
+    "K: 2 łyżki orzechów / zmielonych nasion lnu (2 x 10 g)/ 1⁄2 awokado (70 g)"
+  ],
+  "steps": [
+    "Z jabłka usunąć gniazdo nasienne.",
+    "W wysokim naczyniu zmiksować wszystkie składniki (oprócz otrębów) na gładką konsystencję. Na 5 – 10 min. przed spożyciem dodać otręby, wymieszać i pozostawić do zmięknięcia."
+  ],
+  "extra": {},
+  "shopping-list": [
+    {
+      "name": "jabłka",
+      "value": {
+        "type": "g",
+        "value": "270"
+      }
+    },
+    {
+      "name": "jogurt",
+      "value": {
+        "type": "g",
+        "value": "400"
+      }
+    },
+    {
+      "name": "cynamon",
+      "value": {
+        "type": "łyżeczka",
+        "value": "1"
+      }
+    },
+    {
+      "name": "otręby owsiane",
+      "value": {
+        "type": "łyżki",
+        "value": "4"
+      }
+    }
+  ],
+  "name": "Zimowy koktajl z jabłkiem"
+}

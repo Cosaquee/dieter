@@ -1,0 +1,66 @@
+{
+  "ingredients": [
+    "3 + 4 łyżki fasoli konserwowej (60 + 80 g)",
+    "3⁄4 + 1 szklanka suchego makaronu razowego np. żytniego (50 + 75 g)",
+    "6 + 6 różyczek brokułu (2 x 125 g)",
+    "2 + 2 ogórki kiszone (2 x 120 g)",
+    "1⁄2 + 1⁄2 małej cebuli (2 x 30 g)",
+    "1 + 1 łyżka nasion słonecznika (2 x 10 g)",
+    "sos: 2 + 3 łyżki jogurtu naturalnego (50 + 75 g), 1 +1 posiekany ząbek czosnku, 1 + 1",
+    "łyżeczka musztardy, szczypta czarnego pieprzu, kminku i tymianku"
+  ],
+  "steps": [
+    " Nasiona fasoli przepłukać na sitku pod bieżącą wodą.",
+    " Do wrzącej wody dodać makaron i gotować do konsystencji al dente.",
+    " Różyczki brokułu umyć i ugotować na parze do konsystencji al dente.",
+    " Ogórki i cebulę pokroić w kostkę.",
+    " W szklance połączyć składniki sosu.",
+    " Na talerzu / w salaterce połączyć wszystkie składniki. Całość polać sosem i posypać nasionami."
+  ],
+  "extra": {},
+  "shopping-list": [
+    {
+      "name": "fasola konswerwowa",
+      "value": {
+        "type": "g",
+        "value": "120"
+      }
+    },
+    {
+      "name": "suchy makron razowy",
+      "value": {
+        "type": "g",
+        "value": "125"
+      }
+    },
+    {
+      "name": "ogórki kiszone",
+      "value": {
+        "type": "g",
+        "value": "240"
+      }
+    },
+    {
+      "name": "brokuły",
+      "value": {
+        "type": "g",
+        "value": "250"
+      }
+    },
+    {
+      "name": "cebula",
+      "value": {
+        "type": "g",
+        "value": "60"
+      }
+    },
+    {
+      "name": "nasiona słonecznika",
+      "value": {
+        "type": "g",
+        "value": "20"
+      }
+    }
+  ],
+  "name": "Sałatka z fasoli i brokułu"
+}

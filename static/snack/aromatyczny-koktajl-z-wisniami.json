@@ -1,0 +1,47 @@
+{
+  "ingredients": [
+    "3⁄4 + 1 szklanka mrożonych wiśni (120 + 150 g)",
+    "1 + 1 małe opakowanie jogurtu (2 x 180 – 200 g)/ 1 + 1 szklanka kefiru / napoju roślinnego z Ca i B12 (2 x 250 ml)",
+    "1⁄4 + 1⁄4 szklanki kurkumy",
+    "1⁄4 + 1⁄4 łyżeczki skórki z cytryny",
+    "2 + 2 łyżki otrębów owsianych",
+    "K: 2 łyżki orzechów / zmielonych nasion lnu (2 x 10 g)/ 1⁄2 awokado (70 g)",
+    "erytrol – do posłodzenia"
+  ],
+  "steps": [
+    "Wiśnie rozmrozić.",
+    "W wysokim naczyniu zmiksować wszystkie składniki (oprócz otrębów) na gładką konsystencję. Na 5 – 10 min. przedspożyciem dodać otręby, wymieszać i pozostawić do zmięknięcia."
+  ],
+  "extra": {},
+  "shopping-list": [
+    {
+      "name": "mrożone wiśnie",
+      "value": { "type": "g", "value": "270" }
+    },
+    {
+      "name": "jogurt",
+      "value": { "type": "g", "value": "400" }
+    },
+    {
+      "name": "kurkuma",
+      "value": { "type": "łyżeczka", "value": "1/2" }
+    },
+    {
+      "name": "skórka z cytryny",
+      "value": { "type": "łyżeczka", "value": "1/2" }
+    },
+    {
+      "name": "otręby owsiane",
+      "value": { "type": "łyżka", "value": "4" }
+    },
+    {
+      "name": "K: orzechy",
+      "value": { "type": "g", "value": "20" }
+    },
+    {
+      "name": "erytrol - do posłodzenia",
+      "value": { "type": "", "value": "" }
+    }
+  ],
+  "name": "Aromatyczny koktajl z wiśniami"
+}

@@ -1,0 +1,72 @@
+{
+  "ingredients": [
+    "1/2 + 2/3 szklanki ugotowanych / konserwowych nasion ciecierzycy (100 + 120 g)",
+    "1 + 1 garść ulubionej sa?aty np. roszponki (2 x 30 g)",
+    "1 + 2 łyżki czarnych oliwek (3 x 25 g)",
+    "3 + 4 suszone pomidory (20 + 26 g)",
+    "1 + 1 świeży pomidor (2 x 120 g)",
+    "1/2 + 1/2 czerwonej cebuli (2 x 30 g)",
+    "1 + 2 łyżka pestek dyni (3 x 10 g)",
+    "1 + 1 łyżka oliwy z oliwek / oleju rzepakowego (2 x 10 g)",
+    "kilka kropli octu balsamicznego",
+    "szczypta czarnego pieprzu, bazylii, oregano",
+    "50 + 75 g makaronu razowego"
+  ],
+  "steps": [
+    "Makaron ugotować al dente.",
+    "Nasiona ciecierzycy konserwowej nasiona umieścić na sitku i opłukać zimną wodą.",
+    "Sałatę dokładnie umyć i osuszyć.",
+    "Oliwki odsączyć z zalewy. Pokroić na połówki.",
+    "Suszone pomidory zalać w miseczce gorącą wodą i odstawić pod przykryciem na 10/15 min. Następnie odlać wodą i pokroić pomidory w paski.",
+    "Cebulę i pomidory pokroić w kostkę.",
+    "Wszystkie składniki wymieszać, polać oliwą i octem balsamicznym oraz doprawić przyprawami."
+  ],
+  "extra": {},
+  "shopping-list": [
+    {
+      "name": "ugotowana ciecierzyna",
+      "value": "220g"
+    },
+    {
+      "name": "sałata np. roszponka",
+      "value": "2 garście"
+    },
+    {
+      "name": "czarne oliwki",
+      "value": "75g"
+    },
+    {
+      "name": "suszone pomidory",
+      "value": "46g"
+    },
+    {
+      "name": "świeży pomidor",
+      "value": "240g"
+    },
+    {
+      "name": "czerwona cebula",
+      "value": "60g"
+    },
+    {
+      "name": "pestki dyni",
+      "value": "30g"
+    },
+    {
+      "name": "oliwa z oliwek",
+      "value": "30g"
+    },
+    {
+      "name": "ocet balsamicznym",
+      "value": "kilka kropel"
+    },
+    {
+      "name": "przyprawy: czarny pieprz, bazylia, oregano",
+      "value": "szczypta"
+    },
+    {
+      "name": "makaron razowy",
+      "value": "125g"
+    }
+  ],
+  "name": "Sałatka śródziemnomorska z ciecierzycą"
+}

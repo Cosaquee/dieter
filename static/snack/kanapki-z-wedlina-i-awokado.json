@@ -1,0 +1,34 @@
+{
+  "ingredients": [
+    "2 + 3 cienkie plasterki pieczonego kurczaka / indyka lub schabu (40 + 60 g) (może być ze sklepu)",
+    "1 + 2 kromki razowego chleba (3 x 40 g)",
+    "1⁄4 + 1⁄2 miękkiego awokado (35 + 70 g)",
+    "4 liście sałaty"
+  ],
+  "steps": [
+    "Warzywa umyć i osuszyć. Awokado obrać i pokroić w plastry.",
+    "Na kromki chleba położyć sałatę, pieczeń, pesto i plasterki awokado. Złożyć z kanapkę."
+  ],
+  "extra": {
+    "vegetables": true
+  },
+  "shopping-list": [
+    {
+      "name": "pieczony kurczak",
+      "value": { "type": "g", "value": "100" }
+    },
+    {
+      "name": "chleb razowy",
+      "value": { "type": "kromki", "value": "3" }
+    },
+    {
+      "name": "miękkie awokado",
+      "value": { "type": "g", "value": "105" }
+    },
+    {
+      "name": "sałata",
+      "value": { "type": "liście", "value": "4" }
+    }
+  ],
+  "name": "Kanapki z wędliną i awokado"
+}

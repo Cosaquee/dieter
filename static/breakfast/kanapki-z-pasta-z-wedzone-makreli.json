@@ -1,0 +1,32 @@
+{
+  "ingredients": [
+    "50 + 70 g filetu z wędzonej makreli",
+    "sok z cytryny",
+    "1⁄4 łyżeczki słodkiej papryki",
+    "2 + 3 kromki chleba żytniego razowego (5 x 40 g)"
+  ],
+  "steps": [
+    "Mięso ryby rozdrobnić widelcem i oczyścić z ości.",
+    "Do ryby dodać pozostałe składniki pasty i wymieszać. Pastę spożyć razem z pieczywem."
+  ],
+  "extra": {},
+  "shopping-list": [
+    {
+      "name": "filet z wędzonej makreli",
+      "value": "120g"
+    },
+    {
+      "name": "sok z cytryny",
+      "value": ""
+    },
+    {
+      "name": "słodka papryka",
+      "value": "1/4 łyżeczki"
+    },
+    {
+      "name": "chleb żytni razowego",
+      "value": "5 kromek"
+    }
+  ],
+  "name": "Kanapki z pastą z wędzonej makreli"
+}

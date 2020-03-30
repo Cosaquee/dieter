@@ -1,0 +1,54 @@
+{
+  "ingredients": [
+    "1 + 1 ugotowany burak (2 x 120 g) (można kupić już ugotowane buraki w sklepach)",
+    "1 + 1 garść rukoli lub roszposzki (2 x 30 g)",
+    "2 + 3 plastry sera feta light 12% (5 x 25 g)",
+    "1 + 2 łyżki orzechów włoskich (3 x 10 g)",
+    "1 + 1 łyżeczka oliwy z oliwek (2 x 5 g)",
+    "1/2 + 1/2 ząbku czosnku",
+    "szczypta czarnego pieprzu",
+    "2 + 3 kromki pieczywa razowego (5 x 40 g)"
+  ],
+  "steps": [
+    "Buraki umyć i ugotować na parze i w łupince ok. 15 min. Następie po wystygnięciu obrać i pokroić w kostkę.",
+    "Orzechy posiekać wg uznania.",
+    "Buraki zmieszać z rukolą, oliwą, posiekanym czosnkiem, pieprzem i orzechami. Na koniec posypać pokruszonym serem.",
+    "Serwować z pieczywem."
+  ],
+  "extra": {},
+  "shopping-list": [
+    {
+      "name": "buraki",
+      "value": "240g"
+    },
+    {
+      "name": "rukola lub roszpunka",
+      "value": "60g"
+    },
+    {
+      "name": "ser feta light 12%",
+      "value": "125g"
+    },
+    {
+      "name": "orzechy włoskie",
+      "value": "30g"
+    },
+    {
+      "name": "oliwa z oliwek",
+      "value": "10g"
+    },
+    {
+      "name": "czosnek",
+      "value": "1"
+    },
+    {
+      "name": "przyprawy: czarny pieprz",
+      "value": "szczypta"
+    },
+    {
+      "name": "pieczywo razowe",
+      "value": "5 kromek"
+    }
+  ],
+  "name": "Sa≈Çatka ≈õr√≥dziemnomorska z ciecierzycƒÖ"
+}

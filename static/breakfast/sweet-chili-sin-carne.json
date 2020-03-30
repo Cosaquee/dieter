@@ -1,0 +1,76 @@
+{
+  "ingredients": [
+    "1⁄4 + 1/3 szklanki suchych (50+60 g) lub 1⁄2 + 1/3 szklanki ugotowanych /konserwowych nasion fasoli białej (100 + 120 g)",
+    "1⁄2 + 1⁄2 puszki pokrojonych pomidorów (2 x 200 g)",
+    "1⁄4 + 1⁄2 czerwonej papryki (2 x 60 g)",
+    "1⁄2 + 1⁄4 marchewki (2 x 40 g)",
+    "1⁄2 + 1⁄2 łodygi selera naciowego (2 x 40 g) (opcjonalnie)",
+    "1⁄2 + 1⁄2 cebuli (2 x 30 g)",
+    "1 + 1 ząbek czosnku",
+    "1 + 1 łyżeczka octu balsamicznego",
+    "1 + 1 łyżeczka sosu sojowego",
+    "szczypta cynamonu, ostrej i słodkiej papryki, cynamonu, czarnego pieprzu, kurkumy",
+    "1⁄2 + 3/4 torebki ryżu brązowego (50 + 75 g)",
+    "1 + 2 łyżki orzechów ziemnych (3 x 10 g)",
+    "1 łyżka posiekanej natki pietruszki (opcjonalnie)"
+  ],
+  "steps": [
+    "Do rondelka wlać wodę do gotowania ryżu. Gotować od momentu wrzenia wody ok. 25 – 30 min.",
+    "Suche nasiona fasoli zalać w garnku 2 szklankami wrzątku i odstawić na 3 – 4 h. Odlać wodę i wlać świeże 2 szklankiwody. Gotować przez ok. 30 min. do momentu, aż będą miękkie (w przypadku szybkowaru ok. 15 min.). W razie potrzebydolać wody. W przypadku zastosowania nasion fasoli konserwowej, obficie opłukać nasiona na sitku pod bieżącą wodą.",
+    "Warzywa umyć i osuszyć. Paprykę wydrążyć, marchewkę obrać, odkroić końce łodygi selera, zaś z pomidora wykroić szypułkę. Wszystkie warzywa pokroić w kostkę.",
+    "Cebulę umyć, osuszyć i pokroić w drobną kostkę, zaś czosnek drobno posiekać.",
+    "W garnku umieścić pokrojone pomidory, seler naciowy i marchewkę, dodać przyprawy, cebulę i czosnek i dusić na małymogniu ok. 5 min. (w razie potrzeby można dodać trochę wody). Dodać paprykę i dusić 5 min. Następnie dodać ugotowaną fasolę, ocet balsamiczny oraz sos sojowy i dusić kolejne 10 – 15 min.",
+    "Awokado pokroić a plasterki.",
+    "Gotowe danie podawać z ugotowanym ryżem i awokado. Danie można posypać posiekaną natką pietruszki."
+  ],
+  "extra": {
+    "salad": true
+  },
+  "shopping-list": [
+    {
+      "name": "suche ugotowanych/konserwowye nasions fasoli białej",
+      "value": { "type": "g", "value": "110" }
+    },
+    {
+      "name": "pokrojone pomidory",
+      "value": { "type": "puszka", "value": "1" }
+    },
+    {
+      "name": "czerwona papryka",
+      "value": { "type": "g", "value": "120" }
+    },
+    {
+      "name": "marchewka",
+      "value": { "type": "g", "value": "80" }
+    },
+    {
+      "name": "cebula",
+      "value": { "type": "g", "value": "60" }
+    },
+    {
+      "name": "czosnek",
+      "value": { "type": "g", "value": "ząbek" }
+    },
+    {
+      "name": "ocet balsamiczny",
+      "value": { "type": "łyżeczki", "value": "2" }
+    },
+    {
+      "name": "sos sojowy",
+      "value": { "type": "łyżeczki", "value": "2" }
+    },
+    {
+      "name": "przyprawy: cynamonu, ostrej i słodkiej papryki, cynamonu, czarnego pieprzu, kurkumy",
+      "value": { "type": "szczypta", "value": "" }
+    },
+    {
+      "name": "ryż brązowy",
+      "value": { "type": "g", "value": "125" }
+    },
+    {
+      "name": "oczechy ziemne",
+      "value": { "type": "g", "value": "30" }
+    }
+  ],
+  "name": "Sweet chili sin carne"
+}

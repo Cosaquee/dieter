@@ -1,0 +1,47 @@
+{
+  "ingredients": [
+    "1 + 1 1⁄2 batatu (2 1⁄2 x 240 g)",
+    "1 łyżka oliwy (10 g)",
+    "1⁄2 + 1⁄2 szklanki jogurtu greckiego light lub zwykłego jogurtu naturalnego (2 x 100 g)",
+    "przyprawy do sosu: 2 posiekane ząbki czosnku, szczypta czarnego pieprzu i tymianku, 1 duży ogórek konserwowy pokrojony w drobną kostkę",
+    "przyprawy do batatów: szczypta słodkiej i ostrej papryki, kurkumy i imbiru"
+  ],
+  "steps": [
+    "Batat obrać i pokroić na mniejsze części. Polać oliwą i przyprawić przyprawami. Piec w piekarniku nagrzanym do 220 stopni C przez ok. 20 min.",
+    "Upieczony batat podawać z jogurtem zmieszanym z przyprawami."
+  ],
+  "extra": {
+    "vegetables": true
+  },
+  "shopping-list": [
+    {
+      "name": "bataty",
+      "value": {
+        "type": "g",
+        "value": "500"
+      }
+    },
+    {
+      "name": "oliwa",
+      "value": {
+        "type": "g",
+        "value": "10"
+      }
+    },
+    {
+      "name": "jogurt grecki typu light",
+      "value": {
+        "type": "g",
+        "value": "200"
+      }
+    },
+    {
+      "name": "ogórek konserwowy",
+      "value": {
+        "type": "sztuka",
+        "value": "1"
+      }
+    }
+  ],
+  "name": "Pieczone bataty"
+}

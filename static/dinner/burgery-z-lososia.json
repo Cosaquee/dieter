@@ -1,0 +1,59 @@
+{
+  "ingredients": [
+    "450 g filetu z łososia",
+    "5 suszonych pomidorów (z torebki bez oleju)",
+    "3 – 4 łyżki suchej kaszy jaglanej",
+    "1 mała cebula",
+    "1 ząbek czosnku",
+    "2 - 3 łyżeczki musztardy",
+    "szczypta soli, czarnego pieprzu, słodkiej papryki",
+    "kilka kropel soku z cytryny / limonki",
+    "1 łyżka oliwy",
+    "50 + 75 g suchej np. jęczmiennej pęczak",
+    "surówka np. 1 + 1 garść rukoli z pomidorkami koktajlowymi i 1 + 1 łyżką oleju rzepakowego"
+  ],
+  "steps": [
+    "Odciąć skórę z łososia. Usunąć ości. Rybę opłukać i posiekać na małe kawałeczki. Przełożyć do miski.",
+    "Posiekaną cebulę zeszklić na oliwie. Pod koniec smażenia dodać czosnek. Całość przełożyć do naczynia z łososiem.",
+    "Kaszę jaglaną zmiksować z musztardą, a następnie dodać do łososia.",
+    "Masę na burgery doprawić solą, pieprzem i papryką oraz sokiem z cytryny lub limonki. Całość wymieszać. Uformować 4burgery (można delikatnie natłuścić ręce oliwą, aby burgery lepiej się formowały).",
+    "Burgery smażyć na rozgrzanej patelni z gładką, nieprzywierającą powłoką, po około 2 minuty z każdej strony lub piec wrozgrzanym piekarniku do 180 stopni przez ok. 25 – 30 min.",
+    "Burgery podawać z ugotowaną kaszą oraz surówką."
+  ],
+  "extra": {},
+  "shopping-list": [
+    {
+      "name": "filet z łososia",
+      "value": "450g"
+    },
+    {
+      "name": "suszone pomidory (z torebki bez oleju)",
+      "value": "5"
+    },
+    {
+      "name": "sucha kasza jaglana",
+      "value": "3-4 łyżki"
+    },
+    {
+      "name": "cebula",
+      "value": "1"
+    },
+    {
+      "name": "czosnek",
+      "value": "1"
+    },
+    {
+      "name": "musztarda",
+      "value": "2-3 łyżeczki"
+    },
+    {
+      "name": "przyprawy: sól, czarny pieprz, słodka papryka",
+      "value": "szczypta"
+    },
+    {
+      "name": "oliwa",
+      "value": "1 łyżka"
+    }
+  ],
+  "name": "Burgery z łososia"
+}

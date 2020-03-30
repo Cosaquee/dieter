@@ -1,0 +1,53 @@
+{
+  "ingredients": [
+    "1 + 2 kromki chleba żytniego razowego (3 x 40 g)",
+    "1⁄4 kulki sera mozzarella light (60 g) + 1⁄2 kulki sera mozzarella (60 g)",
+    "1 + 1 mała garstka rukoli",
+    "1 + 2 łyżeczki gotowego lub domowego pesto",
+    "szczypta pieprzu, bazylii i tymianku"
+  ],
+  "steps": [
+    "Na kromki chleba położyć umytą rukolę, plasterki sera oraz pesto. Gotowe kanapki posypać przyprawami."
+  ],
+  "extra": {
+    "vegetables": true
+  },
+  "shopping-list": [
+    {
+      "name": "chleb zytni razowy",
+      "value": {
+        "type": "kromki",
+        "value": "3"
+      }
+    },
+    {
+      "name": "ser mozzarella light",
+      "value": {
+        "type": "g",
+        "value": "60"
+      }
+    },
+    {
+      "name": "ser mozzarella",
+      "value": {
+        "type": "g",
+        "value": "60"
+      }
+    },
+    {
+      "name": "rukola",
+      "value": {
+        "type": "garść",
+        "value": "2"
+      }
+    },
+    {
+      "name": "pesto",
+      "value": {
+        "type": "łyżeczki",
+        "value": "3"
+      }
+    }
+  ],
+  "name": "Kanapki z serem mozzarella i pesto"
+}
