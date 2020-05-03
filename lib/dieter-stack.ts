@@ -19,7 +19,8 @@ export class DieterStack extends core.Stack {
     const userPool = new cognito.UserPool(this, 'userPool', {
       signInAliases: {
         email: true
-      }
+      },
+      userPoolName: "dieter"
     });
 
     // Authorizer for the Hello World API that uses the
