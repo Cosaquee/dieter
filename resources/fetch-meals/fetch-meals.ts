@@ -14,13 +14,21 @@ export const handler = async (event: any = {}): Promise<any> => {
     };
   }
 
-  let client = new faunadb.Client({ secret: API_KEY, keepAlive: false });
+  let client = new faunadb.Client({secret: API_KEY, keepAlive: false});
+  let data: any = {};
+  try {
 
-  let { data } = await client.query(
-    q.Paginate(q.Match(q.Ref(`indexes/all_${prefix}s`)))
-  );
+    data = await client.query(
+      q.Paginate(q.Match(q.Ref(`indexes/all_${prefix}s`)))
+    );
+  } catch (error) {
+    return {
+      statusCode: 500,
+      body: `There was an error requesting resources from database ${error}`
+    }
+  }
 
-  const getAll = data.map((ref: any) => {
+  const getAll = data.data.map((ref: any) => {
     return q.Get(ref);
   });
 
@@ -28,7 +36,7 @@ export const handler = async (event: any = {}): Promise<any> => {
 
   return {
     statusCode: 200,
-    body: JSON.stringify({ meals: meals }),
+    body: JSON.stringify({meals: meals}),
     headers: {
       "Access-Control-Allow-Origin": "*"
     }

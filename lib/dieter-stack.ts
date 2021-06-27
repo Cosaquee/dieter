@@ -74,6 +74,23 @@ export class DieterStack extends core.Stack {
 
     mealID.addMethod("GET", fetchMealIntegration);
     addCorsOptions(mealID);
+
+    const createShoppingList = new lambda.Function(this, "create-shopping-list", {
+      runtime: lambda.Runtime.NODEJS_12_X,
+      code: lambda.Code.asset("resources/create-shopping-list"),
+      handler: "index.handler",
+      environment: {
+        API_KEY: FAUNA_API_KEY
+      }
+    });
+
+    const lists = api.root.addResource("lists");
+    const createShoppingListIntegration = new apigateway.LambdaIntegration(createShoppingList, {
+      requestTemplates: {"application/json": '{ "statusCode": "200" }'}
+    });
+
+    lists.addMethod("POST", createShoppingListIntegration);
+    addCorsOptions(lists);
   }
 }
 
